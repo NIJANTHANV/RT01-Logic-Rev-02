@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\RT01-Logic_RV2_-20.01.18.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>131072</length>
+      <used>46022</used>
+      <free>85050</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>3862</length>
+      <used>1653</used>
+      <free>2209</free>
+    </memory>
+  </executable>
+</project>
